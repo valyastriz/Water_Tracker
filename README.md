@@ -22,6 +22,12 @@ To run the Water Tracker application locally:
 
 3. Open the index.html file in your preferred web browser.
 
+## Deployment
+
+The application is deployed at the following URL:
+
+[Water Tracker Application](https://valyastriz.github.io/Water_Tracker/)
+
 ## Usage
 
 1. Open the Water Tracker application in your web browser.
