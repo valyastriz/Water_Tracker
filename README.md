@@ -43,5 +43,5 @@ The application is deployed at the following URL:
 
 ## Screenshots
 
-![Water Tracker Screenshot](./assets/images/ "Water Tracker Application")
+![Water Tracker Screenshot](./assets/images/water-tracker-screenshot.png "Water Tracker Application")
 
