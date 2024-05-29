@@ -6,7 +6,7 @@
     margin: auto;
 }
 body {
-    background-image: url("water.webp");
+    background-image: url("./images/water.webp");
     background-size: cover;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
